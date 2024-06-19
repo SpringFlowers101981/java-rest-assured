@@ -1,0 +1,18 @@
+recruiter:
+  username : student@example.com
+  password : welcome
+
+automation:
+  title: Jr Automation Engineer
+  address: 150 Third St
+  city : San Francisco
+  state : CA
+  zip : "91010"
+  description : Basic experience with webDriver
+  dateOpen : "2024-06-10T12:00:00Z"
+
+junior_candidate:
+  firstName : Michel
+  lastName : Richard
+  email : "Michel@example.com"
+  password : welcome
